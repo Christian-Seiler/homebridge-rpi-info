@@ -34,7 +34,7 @@
     "eslint": "^8.34.0",
     "homebridge": "^1.6.0",
     "nodemon": "^2.0.20",
-    "rimraf": "^4.0.0",
+    "rimraf": "^5.0.0",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.0"
   }
